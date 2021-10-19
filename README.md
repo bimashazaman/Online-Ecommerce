@@ -1,40 +1,4 @@
-<p align="center">
-<a href="http://www.bagisto.com"><img src="https://bagisto.com/wp-content/themes/bagisto/images/logo.png" alt="Total Downloads"></a>
-</p>
 
-<p align="center">
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/license.svg" alt="License"></a>
-<a href="https://github.com/bagisto/bagisto/actions"><img src="https://github.com/bagisto/bagisto/workflows/CI/badge.svg" alt="Backers on Open Collective"></a>
-<a href="#backers"><img src="https://opencollective.com/bagisto/backers/badge.svg" alt="Backers on Open Collective"></a>
-<a href="#sponsors"><img src="https://opencollective.com/bagisto/sponsors/badge.svg" alt="Sponsors on Open Collective"></a>
-</p>
-
-## Topics
-1. [Introduction](#introduction)
-2. [Documentation](#documentation)
-3. [Requirements](#requirements)
-4. [Installation & Configuration](#installation-and-configuration)
-5. [License](#license)
-6. [Security Vulnerabilities](#security-vulnerabilities)
-7. [Modules](#modules)
-8. [Miscellaneous](#miscellaneous)
-
-### Introduction
-
-[Bagisto](https://www.bagisto.com) is a hand tailored E-Commerce framework built on some of the hottest opensource technologies
-such as [Laravel](https://laravel.com) (a [PHP](https://secure.php.net/) framework) and [Vue.js](https://vuejs.org)
-a progressive Javascript framework.
-
-**Bagisto can help you to cut down your time, cost, and workforce for building online stores or migrating from physical stores
-to the ever demanding online world. Your business -- whether small or huge -- can benefit. And it's very simple to set it up.**
-
-**Read our documentation: [Bagisto Docs](https://devdocs.bagisto.com/)**
-
-**We also have a forum for any type of concerns, feature requests, or discussions. Please visit: [Bagisto Forums](https://forums.bagisto.com/)**
-
-# Visit our live [Demo](https://demo.bagisto.com)
 
 It packs in lots of features that will allow your E-Commerce business to scale in no time:
 
@@ -53,14 +17,12 @@ It packs in lots of features that will allow your E-Commerce business to scale i
 * Price rules (Discount) inbuilt.
 * Theme (Velocity).
 * CMS Pages.
-* Check out [these features and more](https://bagisto.com/features/).
 
-**For Developers**:
-Take advantage of two of the hottest frameworks used in this project -- Laravel and Vue.js -- both of which have been used in Bagisto.
+
 
 ### Documentation
 
-#### Bagisto Documentation [https://devdocs.bagisto.com](https://devdocs.bagisto.com)
+
 
 ### Requirements
 
@@ -74,23 +36,7 @@ Take advantage of two of the hottest frameworks used in this project -- Laravel 
 
 ### Installation and Configuration
 
-**1. You can install Bagisto by using the GUI installer.**
 
-##### a. Download zip from the link below:
-
-[Download the latest release](https://github.com/bagisto/bagisto/releases/latest)
-
-##### b. Extract the contents of zip and execute the project in your browser:
-
-~~~
-http(s)://example.com
-~~~
-
-**2. Or you can install Bagisto from your console.**
-
-##### Execute these commands below, in order
-
-~~~
 1. composer create-project bagisto/bagisto
 ~~~
 
@@ -134,52 +80,9 @@ password:admin123
 > *http(s)://example.com/customer/register*
 
 
-### License
-Bagisto is a truly opensource E-Commerce framework which will always be free under the [MIT License](https://github.com/bagisto/bagisto/blob/master/LICENSE).
 
-### Security Vulnerabilities
-Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Bagisto then please email us: mailto:support@bagisto.com.
-
-### Modules
-[Available Modules](https://bagisto.com/en/extensions)
-
-Need something else? Email us at support@bagisto.com.
-
-### Miscellaneous
-
-#### Contribute
-
-Bagisto is a community driven project, we appreciate every contribution from the community
-
-- If you found an issue that you think we should know about, or if you have a suggestion, please submit an issue.
-- If you want to submit a solution or offer a new feature, please create a pull request.
-
-Please read our [contributing guide](https://github.com/bagisto/bagisto/blob/master/.github/CONTRIBUTING.md) for more info.
-
-#### Contributors
-
-This project is on [Open Collective](https://opencollective.com/bagisto) and it exists thanks to the people who contribute.
-
-<a href="https://github.com/bagisto/bagisto/graphs/contributors"><img src="https://opencollective.com/bagisto/contributors.svg?width=890&button=false"/></a>
-
-#### Backers
-
-Thank you to all our backers! 🙏
-
-<a href="https://opencollective.com/bagisto#contributors" target="_blank"><img src="https://opencollective.com/bagisto/backers.svg?width=890"></a>
-
-#### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-<div>
-    <a href="https://opencollective.com/bagisto/contribute/sponsor-7372/checkout" target="_blank">
-        <img src="https://images.opencollective.com/static/images/become_sponsor.svg">
-    </a>
-</div>
-
-<kbd>
-    <a href="http://e.ventures/" target="_blank">
-        <img src="https://images.opencollective.com/e-ventures1/7d61db2/logo.png" height="75">
-    </a>
-</kbd>
+![Screenshot (49)](https://user-images.githubusercontent.com/81862443/137830600-36b3119a-f8e8-44df-ba0a-684035cd52a9.png)
+![Screenshot (50)](https://user-image![Screenshot (54)](https://user-images.githubusercontent.com/81862443/137830621-51c832dd-8db9-43d1-abef-515439cf02a1.png)
+s.githubusercontent.com/81862443/137830615-9379396c-54ce-4ba6-9099-bed5a6ef7db6.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/81862443/137830629-6e29e026-a911-4fea-a434-42ebf37a0eee.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/81862443/137830638-f006b512-e464-496a-a62d-0001bc67e1e3.png)
